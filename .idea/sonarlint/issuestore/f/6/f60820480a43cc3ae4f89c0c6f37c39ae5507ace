@@ -1,0 +1,8 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰¶ı‚8®ìø”ö1J$00f8ea55-dd33-42e7-b2d5-8b3327a7d1e2
+”
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ê‡šÌşÿÿÿÿ8úùş”ö1J$5cc330be-e0e3-4d5e-82f2-15c3eee07f57
+^
+java:S1854"<Remove this useless assignment to local variable "exitCode".(è”ªõüÿÿÿÿ8áù‹•ö1
+O
+java:S1481"-Remove this unused "exitCode" local variable.(è”ªõüÿÿÿÿ8åù‹•ö1

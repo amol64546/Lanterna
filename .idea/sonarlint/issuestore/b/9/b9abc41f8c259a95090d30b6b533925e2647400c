@@ -1,0 +1,15 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å¸ıßúÿÿÿÿ8ê²í”ö1J$0bb657c7-f905-4ba5-b948-9c3cee99affd
+
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(ÉüàÂ8‘³í”ö1J$54174d29-9e6e-4f63-9c60-8e7b0371c01b
+„
+java:S1854"<Remove this useless assignment to local variable "exitCode".(è”ªõüÿÿÿÿ8™³í”ö1J$78cd5193-4922-42be-a393-b123725c7302
+‚
+java:S1854":Remove this useless assignment to local variable "future".(…˜úÿÿÿÿ8š³í”ö1J$5ae440dc-9e08-4a48-a807-0269b13ad878
+m	java:S106"+Replace this use of System.out by a logger.(±ˆÕÃ8Ã³í”ö1J$559cb7f1-45f1-42ec-bd34-f28a5a5af0f3
+s
+java:S1481"+Remove this unused "future" local variable.(…˜úÿÿÿÿ8Æ³í”ö1J$355cc7fd-afb4-4b0c-a7b8-aacd061744ae
+u
+java:S1481"-Remove this unused "exitCode" local variable.(è”ªõüÿÿÿÿ8Ç³í”ö1J$f5573485-d226-47cb-a331-df6a8269eda7
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8±Ê˜•ö1J$aeb8f933-6901-4c12-b01e-7e0f4aca0680
